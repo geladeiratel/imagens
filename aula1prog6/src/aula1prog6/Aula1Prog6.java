@@ -41,6 +41,9 @@ public class Aula1Prog6 {
 				"Resultado", JOptionPane.INFORMATION_MESSAGE);
 
 		System.exit(0);
+		
+		//Variaveis e metodos static sao imutaveis e pertencem ah Classe		
+		
 	}
 
 }
