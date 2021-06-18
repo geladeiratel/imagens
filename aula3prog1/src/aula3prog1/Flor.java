@@ -4,7 +4,7 @@ public class Flor {
 
 	//Variaveis de instancia
 	private String nome;
-	private String cor;
+	private String cor; 
 	private int tamanho;
 		
 	public Flor(String nome, String cor, int tamanho) {
