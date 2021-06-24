@@ -1,4 +1,4 @@
-package aula6prog1;
+package aula6prog1; 
 
 public class A {
 
